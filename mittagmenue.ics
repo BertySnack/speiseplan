@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//Linz Speiseplan//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mittagessen Linz – Wochenplan
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VEVENT
+UID:4bcdbfd0-e3fb-45c4-a020-05f4cbe5c286@chatgpt
+DTSTAMP:20260819T102055Z
+DTSTART;TZID=Europe/Vienna:20260817T113000
+DTEND;TZID=Europe/Vienna:20260817T120000
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SUMMARY:Mittagmenü
+DESCRIPTION:Montag\, 17.08.2026\n\nCOP-STOP:\n- Tagessuppe\n- Gebratener Leberkäse mit Kartoffelpüree und Erbsen\n- Mit Mandeln gratinierter Broccoli\, dazu Kartoffeln und Kräuterrahm-Dip\n\nCaseli ÖGK:\n- Grießnockerlsuppe\n- Classic I: Rindsgulasch mit Nockerl und Semmel\n- Classic II: Tofulaibchen auf Ratatouillegemüse\, dazu Salat\n- Classic III: Schweinsbratwürstl mit Kartoffeln und Sauerkraut\n- Mehlspeise: Karibikkuchen\n\nMIC by Eurest:\n- Tagessuppe: Karotten-Kokoscremesuppe mit frischem Ingwer\n- Powered by Plants: Ofenerdäpfel mit cremigen Orangenlinsen\, frischem Hummus-Dip und Petersilie\n- Hearty: Indisches Chicken Tikka Masala mit Gewürz-Bulgur und frischem Koriander\n- The Grill: Hend'l Burger mit Pommes Frites\n- Tagesdessert: Milchreis mit Himbeersauce oder Esterhazyschnitte
+END:VEVENT
+BEGIN:VEVENT
+UID:2a0366aa-b108-4e41-a181-106ba48e6ee6@chatgpt
+DTSTAMP:20260819T102055Z
+DTSTART;TZID=Europe/Vienna:20260818T113000
+DTEND;TZID=Europe/Vienna:20260818T120000
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SUMMARY:Mittagmenü
+DESCRIPTION:Dienstag\, 18.08.2026\n\nCOP-STOP:\n- Tagessuppe\n- Putensteak mit gebratenen Schupfnudeln und Gemüse\n- Kichererbsen-Tomaten-Ragout mit Knoblauch-Baguette\n\nCaseli ÖGK:\n- Rahmsuppe mit Croutons\n- Classic I: 1/2 Brathendl mit Saft und Reis\, dazu Salat\n- Classic II: Waldpilzragout mit Serviettenknödel\, dazu Salat\n- Classic III: Faschierter Braten mit Saft\, Kartoffelpüree und Röstzwiebel\, dazu Salat\n\nMIC by Eurest:\n- Tagessuppe: Klare Gemüsesuppe mit Kaspressknödel und frischem Schnittlauch\n- Powered by Plants: Gemüse-Süßkartoffel-Curry mit gebratenem Reis\n- Hearty: Gegrilltes Hühnerfilet in Eierschwammerlsauce mit Butterreis und Petersilie\n- The Grill: Hend'l Burger mit Pommes Frites\n- Tagesdessert: Milchreis mit Himbeersauce oder Esterhazyschnitte
+END:VEVENT
+BEGIN:VEVENT
+UID:9ac5da1e-a0d1-46a1-bf16-a5c8f12b872f@chatgpt
+DTSTAMP:20260819T102055Z
+DTSTART;TZID=Europe/Vienna:20260819T113000
+DTEND;TZID=Europe/Vienna:20260819T120000
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SUMMARY:Mittagmenü
+DESCRIPTION:Mittwoch\, 19.08.2026\n\nCOP-STOP:\n- Tagessuppe\n- Holzfäller-Steak vom Schwein mit Zwiebeln\, Speck\, Champignons\, Kräuterbutter und Rösti\n- Germknödel mit Vanillesauce\n\nCaseli ÖGK:\n- Gurkencremesuppe\n- Classic I: Alaska-Seelachsfilet in Knusperpanade mit Zitronen-Pfefferdip und Gemüsereis\, dazu Salat\n- Classic II: Exotische Gemüsereispfanne mit Ananas und Cranberries\, dazu Salat\n- Classic III: Berner Würstel mit Senf\, Ketchup und Kartoffeln\, dazu Salat\n- Mehlspeise: Topfen-Obersschnitte\n\nMIC by Eurest:\n- Tagessuppe: Karfiolcremesuppe mit frischer Petersilie\n- Powered by Plants: Pasta in Blattspinatsauce mit getrockneten Paradeisern und Parmesan\n- Hearty: Gebackenes Schweinsschnitzel mit Petersilerdäpfeln\n- The Grill: Forellenfilet auf mediterranem Gemüse und Rahmkartoffeln\n- Tagesdessert: Milchreis mit Himbeersauce oder Esterhazyschnitte
+END:VEVENT
+BEGIN:VEVENT
+UID:62b34881-24a5-4cff-bcce-fd543bda6f95@chatgpt
+DTSTAMP:20260819T102055Z
+DTSTART;TZID=Europe/Vienna:20260820T113000
+DTEND;TZID=Europe/Vienna:20260820T120000
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SUMMARY:Mittagmenü
+DESCRIPTION:Donnerstag\, 20.08.2026\n\nCOP-STOP:\n- Tagessuppe\n- Kohlroulade mit Kartoffeln und Speck-Rahmsauce\n- Mit Frischkäse & Broccoli gefüllte Kartoffeltaschen auf Rahm-Blattspinat\n\nCaseli ÖGK:\n- Minestrone\n- Classic I: Putengeschnetzeltes Züricher Art mit Spinatspätzle\, dazu Salat\n- Classic II: Italienischer Gemüseeintopf mit Parmesan und Ciabatta\, dazu Salat\n- Classic III: Rindfleisch-Salat mit Kernöl und roten Bohnen\n- Mehlspeise: Gedeckte Nussecke\n\nMIC by Eurest:\n- Tagessuppe: Klare Rindsuppe mit Fleischstrudel und frischem Schnittlauch\n- Powered by Plants: Gemüsewok mit Mu-Err-Pilzen\, knusprigem Tofu\, Broccoli\, Jasminreis und Knoblauchsauce\n- Hearty: Honigkrustenbraten mit Semmelfülle und Apfelsauerkraut\n- The Grill: Forellenfilet auf mediterranem Gemüse und Rahmkartoffeln\n- Tagesdessert: Milchreis mit Himbeersauce oder Esterhazyschnitte
+END:VEVENT
+BEGIN:VEVENT
+UID:eb6daa86-274a-4248-aae4-7a3f643f9182@chatgpt
+DTSTAMP:20260819T102055Z
+DTSTART;TZID=Europe/Vienna:20260821T113000
+DTEND;TZID=Europe/Vienna:20260821T120000
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SUMMARY:Mittagmenü
+DESCRIPTION:Freitag\, 21.08.2026\n\nCOP-STOP:\n- Tagessuppe\n- Grenadiermarsch\n- Gebackene Champignons mit Kartoffeln und Sauce Tartare\n\nCaseli ÖGK:\n- Klare Gemüsesuppe mit Einlage\n- Classic I: Hühner Cordon bleu mit Preiselbeeren\, Zitrone und Kartoffel-Vogerlsalat\n- Classic II: Apfel-Lasagne mit Vanillesauce\n\nMIC by Eurest:\n- Tagessuppe: Stop Food Waste Tagessuppe\n- Powered by Plants: Stop Food Waste Powered by Plants\n- Hearty: Stop Food Waste Hearty\n- The Grill: Cheese Burger mit Kartoffelwedges\n- Tagesdessert: Milchreis mit Himbeersauce oder Esterhazyschnitte
+END:VEVENT
+END:VCALENDAR
