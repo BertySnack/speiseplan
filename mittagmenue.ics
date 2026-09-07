@@ -6,53 +6,53 @@ METHOD:PUBLISH
 X-WR-CALNAME:Mittagmenü Linz
 X-WR-TIMEZONE:Europe/Vienna
 BEGIN:VEVENT
-UID:9e8a649b-9aa8-4196-ab18-acc347c186ba@chatgpt
-DTSTAMP:20260831T074341Z
-DTSTART;TZID=Europe/Vienna:20260831T113000
-DTEND;TZID=Europe/Vienna:20260831T120000
+UID:mittagmenue-20260907@bertysnack-speiseplan
+DTSTAMP:20260907T081635Z
+DTSTART;TZID=Europe/Vienna:20260907T113000
+DTEND;TZID=Europe/Vienna:20260907T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Montag\, 31.08.2026\n\nCOP-STOP:\n- Der aktuelle Wochenplan ist auf der Website vorhanden\, konnte über den automatisierten Abruf jedoch nicht zuverlässig ausgelesen werden. Keine alten Speisen wurden übernommen.\n\nCaseli ÖGK:\n- Der aktuelle Wochenplan ist auf der Website vorhanden\, konnte über den automatisierten Abruf jedoch nicht zuverlässig ausgelesen werden. Keine alten Speisen wurden übernommen.\n\nMIC by Eurest:\n- Der aktuelle Wochenplan ist auf der Website vorhanden\, konnte über den automatisierten Abruf jedoch nicht zuverlässig ausgelesen werden. Keine alten Speisen wurden übernommen.
+DESCRIPTION:Montag\, 07.09.2026\n\nCOP-STOP:\n- Tagessuppe\n- Krautroulade mit Speckrahmsauce\, Erdäpfeln und Röstzwiebeln\n- Pasta mit marinierten Cherrytomaten\, Frischkäse und Parmesan\n- Tagessalat\n- Wiener Schnitzel vom Schwein mit Beilage – 9\,50 €\n\nCaseli ÖGK:\n- Aktueller Wochenplan konnte automatisiert nicht zuverlässig ausgelesen werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan konnte automatisiert nicht zuverlässig ausgelesen werden.
 END:VEVENT
 BEGIN:VEVENT
-UID:d6557f6d-7e84-4218-a97d-fd309ad6ffbc@chatgpt
-DTSTAMP:20260831T074341Z
-DTSTART;TZID=Europe/Vienna:20260901T113000
-DTEND;TZID=Europe/Vienna:20260901T120000
+UID:mittagmenue-20260908@bertysnack-speiseplan
+DTSTAMP:20260907T081635Z
+DTSTART;TZID=Europe/Vienna:20260908T113000
+DTEND;TZID=Europe/Vienna:20260908T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Dienstag\, 01.09.2026\n\nCOP-STOP:\n- Der aktuelle Wochenplan ist auf der Website vorhanden\, konnte über den automatisierten Abruf jedoch nicht zuverlässig ausgelesen werden. Keine alten Speisen wurden übernommen.\n\nCaseli ÖGK:\n- Der aktuelle Wochenplan ist auf der Website vorhanden\, konnte über den automatisierten Abruf jedoch nicht zuverlässig ausgelesen werden. Keine alten Speisen wurden übernommen.\n\nMIC by Eurest:\n- Der aktuelle Wochenplan ist auf der Website vorhanden\, konnte über den automatisierten Abruf jedoch nicht zuverlässig ausgelesen werden. Keine alten Speisen wurden übernommen.
+DESCRIPTION:Dienstag\, 08.09.2026\n\nCOP-STOP:\n- Aktueller Wochenplan für diesen Tag konnte automatisiert nicht zuverlässig ausgelesen werden.\n\nCaseli ÖGK:\n- Aktueller Wochenplan für diesen Tag konnte automatisiert nicht zuverlässig ausgelesen werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan für diesen Tag konnte automatisiert nicht zuverlässig ausgelesen werden.
 END:VEVENT
 BEGIN:VEVENT
-UID:80d97918-6a5c-4db9-b037-e2fbf513babb@chatgpt
-DTSTAMP:20260831T074341Z
-DTSTART;TZID=Europe/Vienna:20260902T113000
-DTEND;TZID=Europe/Vienna:20260902T120000
+UID:mittagmenue-20260909@bertysnack-speiseplan
+DTSTAMP:20260907T081635Z
+DTSTART;TZID=Europe/Vienna:20260909T113000
+DTEND;TZID=Europe/Vienna:20260909T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Mittwoch\, 02.09.2026\n\nCOP-STOP:\n- Der aktuelle Wochenplan ist auf der Website vorhanden\, konnte über den automatisierten Abruf jedoch nicht zuverlässig ausgelesen werden. Keine alten Speisen wurden übernommen.\n\nCaseli ÖGK:\n- Der aktuelle Wochenplan ist auf der Website vorhanden\, konnte über den automatisierten Abruf jedoch nicht zuverlässig ausgelesen werden. Keine alten Speisen wurden übernommen.\n\nMIC by Eurest:\n- Der aktuelle Wochenplan ist auf der Website vorhanden\, konnte über den automatisierten Abruf jedoch nicht zuverlässig ausgelesen werden. Keine alten Speisen wurden übernommen.
+DESCRIPTION:Mittwoch\, 09.09.2026\n\nCOP-STOP:\n- Aktueller Wochenplan für diesen Tag konnte automatisiert nicht zuverlässig ausgelesen werden.\n\nCaseli ÖGK:\n- Aktueller Wochenplan für diesen Tag konnte automatisiert nicht zuverlässig ausgelesen werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan für diesen Tag konnte automatisiert nicht zuverlässig ausgelesen werden.
 END:VEVENT
 BEGIN:VEVENT
-UID:0e5b0fce-cc92-4be1-8bfb-8bca072672f9@chatgpt
-DTSTAMP:20260831T074341Z
-DTSTART;TZID=Europe/Vienna:20260903T113000
-DTEND;TZID=Europe/Vienna:20260903T120000
+UID:mittagmenue-20260910@bertysnack-speiseplan
+DTSTAMP:20260907T081635Z
+DTSTART;TZID=Europe/Vienna:20260910T113000
+DTEND;TZID=Europe/Vienna:20260910T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Donnerstag\, 03.09.2026\n\nCOP-STOP:\n- Der aktuelle Wochenplan ist auf der Website vorhanden\, konnte über den automatisierten Abruf jedoch nicht zuverlässig ausgelesen werden. Keine alten Speisen wurden übernommen.\n\nCaseli ÖGK:\n- Der aktuelle Wochenplan ist auf der Website vorhanden\, konnte über den automatisierten Abruf jedoch nicht zuverlässig ausgelesen werden. Keine alten Speisen wurden übernommen.\n\nMIC by Eurest:\n- Der aktuelle Wochenplan ist auf der Website vorhanden\, konnte über den automatisierten Abruf jedoch nicht zuverlässig ausgelesen werden. Keine alten Speisen wurden übernommen.
+DESCRIPTION:Donnerstag\, 10.09.2026\n\nCOP-STOP:\n- Aktueller Wochenplan für diesen Tag konnte automatisiert nicht zuverlässig ausgelesen werden.\n\nCaseli ÖGK:\n- Aktueller Wochenplan für diesen Tag konnte automatisiert nicht zuverlässig ausgelesen werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan für diesen Tag konnte automatisiert nicht zuverlässig ausgelesen werden.
 END:VEVENT
 BEGIN:VEVENT
-UID:e5b1ac23-482d-45e9-9e44-cf6302cf6028@chatgpt
-DTSTAMP:20260831T074341Z
-DTSTART;TZID=Europe/Vienna:20260904T113000
-DTEND;TZID=Europe/Vienna:20260904T120000
+UID:mittagmenue-20260911@bertysnack-speiseplan
+DTSTAMP:20260907T081635Z
+DTSTART;TZID=Europe/Vienna:20260911T113000
+DTEND;TZID=Europe/Vienna:20260911T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Freitag\, 04.09.2026\n\nCOP-STOP:\n- Der aktuelle Wochenplan ist auf der Website vorhanden\, konnte über den automatisierten Abruf jedoch nicht zuverlässig ausgelesen werden. Keine alten Speisen wurden übernommen.\n\nCaseli ÖGK:\n- Der aktuelle Wochenplan ist auf der Website vorhanden\, konnte über den automatisierten Abruf jedoch nicht zuverlässig ausgelesen werden. Keine alten Speisen wurden übernommen.\n\nMIC by Eurest:\n- Der aktuelle Wochenplan ist auf der Website vorhanden\, konnte über den automatisierten Abruf jedoch nicht zuverlässig ausgelesen werden. Keine alten Speisen wurden übernommen.
+DESCRIPTION:Freitag\, 11.09.2026\n\nCOP-STOP:\n- Aktueller Wochenplan für diesen Tag konnte automatisiert nicht zuverlässig ausgelesen werden.\n\nCaseli ÖGK:\n- Aktueller Wochenplan für diesen Tag konnte automatisiert nicht zuverlässig ausgelesen werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan für diesen Tag konnte automatisiert nicht zuverlässig ausgelesen werden.
 END:VEVENT
 END:VCALENDAR
