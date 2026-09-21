@@ -6,53 +6,53 @@ METHOD:PUBLISH
 X-WR-CALNAME:Mittagmenü Linz
 X-WR-TIMEZONE:Europe/Vienna
 BEGIN:VEVENT
-UID:mittagmenue-20260914@bertysnack-speiseplan
-DTSTAMP:20260914T080623Z
-DTSTART;TZID=Europe/Vienna:20260914T113000
-DTEND;TZID=Europe/Vienna:20260914T120000
+UID:mittagmenue-20260921@bertysnack-speiseplan
+DTSTAMP:20260921T075624Z
+DTSTART;TZID=Europe/Vienna:20260921T113000
+DTEND;TZID=Europe/Vienna:20260921T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Montag\, 14.09.2026\n\nCOP-STOP:\n- Aktueller Wochenplan konnte beim automatisierten Abruf am 14.09.2026 nicht zuverlässig verifiziert werden\; keine alten Speisen übernommen.\n\nCaseli ÖGK:\n- Aktueller Wochenplan konnte beim automatisierten Abruf am 14.09.2026 nicht zuverlässig verifiziert werden\; keine alten Speisen übernommen.\n\nMIC by Eurest:\n- Aktueller Wochenplan konnte beim automatisierten Abruf am 14.09.2026 nicht zuverlässig verifiziert werden\; keine alten Speisen übernommen.
+DESCRIPTION:Montag\, 21.09.2026\n\nCOP-STOP:\n- Tagessuppe\n- Putenschnitzel in Sonnenblumen-Panade mit Kartoffel-Gurkensalat\n- Gratinierter Schafskäse auf Ofengemüse\, dazu Mini-Baguette\n- Tagessalat\n- Wiener Schnitzel vom Schwein mit Beilage – 9\,50 €\n\nCaseli ÖGK:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.
 END:VEVENT
 BEGIN:VEVENT
-UID:mittagmenue-20260915@bertysnack-speiseplan
-DTSTAMP:20260914T080623Z
-DTSTART;TZID=Europe/Vienna:20260915T113000
-DTEND;TZID=Europe/Vienna:20260915T120000
+UID:mittagmenue-20260922@bertysnack-speiseplan
+DTSTAMP:20260921T075624Z
+DTSTART;TZID=Europe/Vienna:20260922T113000
+DTEND;TZID=Europe/Vienna:20260922T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Dienstag\, 15.09.2026\n\nCOP-STOP:\n- Aktueller Wochenplan konnte beim automatisierten Abruf am 14.09.2026 nicht zuverlässig verifiziert werden\; keine alten Speisen übernommen.\n\nCaseli ÖGK:\n- Aktueller Wochenplan konnte beim automatisierten Abruf am 14.09.2026 nicht zuverlässig verifiziert werden\; keine alten Speisen übernommen.\n\nMIC by Eurest:\n- Aktueller Wochenplan konnte beim automatisierten Abruf am 14.09.2026 nicht zuverlässig verifiziert werden\; keine alten Speisen übernommen.
+DESCRIPTION:Dienstag\, 22.09.2026\n\nCOP-STOP:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nCaseli ÖGK:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.
 END:VEVENT
 BEGIN:VEVENT
-UID:mittagmenue-20260916@bertysnack-speiseplan
-DTSTAMP:20260914T080623Z
-DTSTART;TZID=Europe/Vienna:20260916T113000
-DTEND;TZID=Europe/Vienna:20260916T120000
+UID:mittagmenue-20260923@bertysnack-speiseplan
+DTSTAMP:20260921T075624Z
+DTSTART;TZID=Europe/Vienna:20260923T113000
+DTEND;TZID=Europe/Vienna:20260923T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Mittwoch\, 16.09.2026\n\nCOP-STOP:\n- Aktueller Wochenplan konnte beim automatisierten Abruf am 14.09.2026 nicht zuverlässig verifiziert werden\; keine alten Speisen übernommen.\n\nCaseli ÖGK:\n- Aktueller Wochenplan konnte beim automatisierten Abruf am 14.09.2026 nicht zuverlässig verifiziert werden\; keine alten Speisen übernommen.\n\nMIC by Eurest:\n- Aktueller Wochenplan konnte beim automatisierten Abruf am 14.09.2026 nicht zuverlässig verifiziert werden\; keine alten Speisen übernommen.
+DESCRIPTION:Mittwoch\, 23.09.2026\n\nCOP-STOP:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nCaseli ÖGK:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.
 END:VEVENT
 BEGIN:VEVENT
-UID:mittagmenue-20260917@bertysnack-speiseplan
-DTSTAMP:20260914T080623Z
-DTSTART;TZID=Europe/Vienna:20260917T113000
-DTEND;TZID=Europe/Vienna:20260917T120000
+UID:mittagmenue-20260924@bertysnack-speiseplan
+DTSTAMP:20260921T075624Z
+DTSTART;TZID=Europe/Vienna:20260924T113000
+DTEND;TZID=Europe/Vienna:20260924T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Donnerstag\, 17.09.2026\n\nCOP-STOP:\n- Aktueller Wochenplan konnte beim automatisierten Abruf am 14.09.2026 nicht zuverlässig verifiziert werden\; keine alten Speisen übernommen.\n\nCaseli ÖGK:\n- Aktueller Wochenplan konnte beim automatisierten Abruf am 14.09.2026 nicht zuverlässig verifiziert werden\; keine alten Speisen übernommen.\n\nMIC by Eurest:\n- Aktueller Wochenplan konnte beim automatisierten Abruf am 14.09.2026 nicht zuverlässig verifiziert werden\; keine alten Speisen übernommen.
+DESCRIPTION:Donnerstag\, 24.09.2026\n\nCOP-STOP:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nCaseli ÖGK:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.
 END:VEVENT
 BEGIN:VEVENT
-UID:mittagmenue-20260918@bertysnack-speiseplan
-DTSTAMP:20260914T080623Z
-DTSTART;TZID=Europe/Vienna:20260918T113000
-DTEND;TZID=Europe/Vienna:20260918T120000
+UID:mittagmenue-20260925@bertysnack-speiseplan
+DTSTAMP:20260921T075624Z
+DTSTART;TZID=Europe/Vienna:20260925T113000
+DTEND;TZID=Europe/Vienna:20260925T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Freitag\, 18.09.2026\n\nCOP-STOP:\n- Aktueller Wochenplan konnte beim automatisierten Abruf am 14.09.2026 nicht zuverlässig verifiziert werden\; keine alten Speisen übernommen.\n\nCaseli ÖGK:\n- Aktueller Wochenplan konnte beim automatisierten Abruf am 14.09.2026 nicht zuverlässig verifiziert werden\; keine alten Speisen übernommen.\n\nMIC by Eurest:\n- Aktueller Wochenplan konnte beim automatisierten Abruf am 14.09.2026 nicht zuverlässig verifiziert werden\; keine alten Speisen übernommen.
+DESCRIPTION:Freitag\, 25.09.2026\n\nCOP-STOP:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nCaseli ÖGK:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.
 END:VEVENT
 END:VCALENDAR
