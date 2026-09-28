@@ -6,53 +6,48 @@ METHOD:PUBLISH
 X-WR-CALNAME:Mittagmenü Linz
 X-WR-TIMEZONE:Europe/Vienna
 BEGIN:VEVENT
-UID:mittagmenue-20260921@bertysnack-speiseplan
-DTSTAMP:20260921T075624Z
-DTSTART;TZID=Europe/Vienna:20260921T113000
-DTEND;TZID=Europe/Vienna:20260921T120000
+UID:mittagmenue-20260928@bertysnack-speiseplan
+DTSTART;TZID=Europe/Vienna:20260928T113000
+DTEND;TZID=Europe/Vienna:20260928T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Montag\, 21.09.2026\n\nCOP-STOP:\n- Tagessuppe\n- Putenschnitzel in Sonnenblumen-Panade mit Kartoffel-Gurkensalat\n- Gratinierter Schafskäse auf Ofengemüse\, dazu Mini-Baguette\n- Tagessalat\n- Wiener Schnitzel vom Schwein mit Beilage – 9\,50 €\n\nCaseli ÖGK:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.
+DESCRIPTION:Montag\, 28.09.2026\n\nCOP-STOP:\n- Tagessuppe\n- Fleckerlspeise\n- Kürbis-Gemüse-Ragout mit Serviettenknödel\n- Tagessalat\n- Wiener Schnitzel vom Schwein mit Beilage – 9\,50 €\n\nCaseli ÖGK:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Tagessuppe: Minestrone\, italienische Gemüsesuppe (75 kcal)\n- Powered by plants: Erdäpfel-Fisolengulasch (194 kcal)\n- Hearty: Rindsbraten mit Sauce\, Rotkraut und Erdäpfelknödel (507 kcal)\n- The Grill: Hot Dog Mexican mit Firecrackersauce\, Jalapeños und Pommes frites (952 kcal)\n- Tagesdessert: Apfeltiramisu im Glas (255 kcal) oder Lotus-Roulade (207 kcal)
 END:VEVENT
 BEGIN:VEVENT
-UID:mittagmenue-20260922@bertysnack-speiseplan
-DTSTAMP:20260921T075624Z
-DTSTART;TZID=Europe/Vienna:20260922T113000
-DTEND;TZID=Europe/Vienna:20260922T120000
+UID:mittagmenue-20260929@bertysnack-speiseplan
+DTSTART;TZID=Europe/Vienna:20260929T113000
+DTEND;TZID=Europe/Vienna:20260929T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Dienstag\, 22.09.2026\n\nCOP-STOP:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nCaseli ÖGK:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.
+DESCRIPTION:Dienstag\, 29.09.2026\n\nCOP-STOP:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nCaseli ÖGK:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.
 END:VEVENT
 BEGIN:VEVENT
-UID:mittagmenue-20260923@bertysnack-speiseplan
-DTSTAMP:20260921T075624Z
-DTSTART;TZID=Europe/Vienna:20260923T113000
-DTEND;TZID=Europe/Vienna:20260923T120000
+UID:mittagmenue-20260930@bertysnack-speiseplan
+DTSTART;TZID=Europe/Vienna:20260930T113000
+DTEND;TZID=Europe/Vienna:20260930T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Mittwoch\, 23.09.2026\n\nCOP-STOP:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nCaseli ÖGK:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.
+DESCRIPTION:Mittwoch\, 30.09.2026\n\nCOP-STOP:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nCaseli ÖGK:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.
 END:VEVENT
 BEGIN:VEVENT
-UID:mittagmenue-20260924@bertysnack-speiseplan
-DTSTAMP:20260921T075624Z
-DTSTART;TZID=Europe/Vienna:20260924T113000
-DTEND;TZID=Europe/Vienna:20260924T120000
+UID:mittagmenue-20261001@bertysnack-speiseplan
+DTSTART;TZID=Europe/Vienna:20261001T113000
+DTEND;TZID=Europe/Vienna:20261001T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Donnerstag\, 24.09.2026\n\nCOP-STOP:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nCaseli ÖGK:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.
+DESCRIPTION:Donnerstag\, 01.10.2026\n\nCOP-STOP:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nCaseli ÖGK:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.
 END:VEVENT
 BEGIN:VEVENT
-UID:mittagmenue-20260925@bertysnack-speiseplan
-DTSTAMP:20260921T075624Z
-DTSTART;TZID=Europe/Vienna:20260925T113000
-DTEND;TZID=Europe/Vienna:20260925T120000
+UID:mittagmenue-20261002@bertysnack-speiseplan
+DTSTART;TZID=Europe/Vienna:20261002T113000
+DTEND;TZID=Europe/Vienna:20261002T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Freitag\, 25.09.2026\n\nCOP-STOP:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nCaseli ÖGK:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan für diesen Tag konnte nicht zuverlässig verifiziert werden.
+DESCRIPTION:Freitag\, 02.10.2026\n\nCOP-STOP:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nCaseli ÖGK:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.
 END:VEVENT
 END:VCALENDAR
