@@ -6,48 +6,53 @@ METHOD:PUBLISH
 X-WR-CALNAME:Mittagmenü Linz
 X-WR-TIMEZONE:Europe/Vienna
 BEGIN:VEVENT
-UID:mittagmenue-20260928@bertysnack-speiseplan
-DTSTART;TZID=Europe/Vienna:20260928T113000
-DTEND;TZID=Europe/Vienna:20260928T120000
+UID:mittagmenue-20261012@bertysnack-speiseplan
+DTSTAMP:20261013T073356Z
+DTSTART;TZID=Europe/Vienna:20261012T113000
+DTEND;TZID=Europe/Vienna:20261012T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Montag\, 28.09.2026\n\nCOP-STOP:\n- Tagessuppe\n- Fleckerlspeise\n- Kürbis-Gemüse-Ragout mit Serviettenknödel\n- Tagessalat\n- Wiener Schnitzel vom Schwein mit Beilage – 9\,50 €\n\nCaseli ÖGK:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Tagessuppe: Minestrone\, italienische Gemüsesuppe (75 kcal)\n- Powered by plants: Erdäpfel-Fisolengulasch (194 kcal)\n- Hearty: Rindsbraten mit Sauce\, Rotkraut und Erdäpfelknödel (507 kcal)\n- The Grill: Hot Dog Mexican mit Firecrackersauce\, Jalapeños und Pommes frites (952 kcal)\n- Tagesdessert: Apfeltiramisu im Glas (255 kcal) oder Lotus-Roulade (207 kcal)
+DESCRIPTION:Montag\, 12.10.2026\n\nCOP-STOP:\n- Tagessuppe\n- Puten-Geschnetzeltes mit Champignons und Erbsenreis\n- Kürbis-Nudel-Auflauf mit Dip und Rucola\n- Tagessalat\n- Wiener Schnitzel vom Schwein mit Beilage – 9\,50 €\n\nCaseli ÖGK:\n- Frittatensuppe\n- Classic I: Hühner-Paprikageschnetzeltes mit Nockerl\, dazu Salat\n- Classic II: Tortelloni mit Basilikumpesto und Parmesan\, dazu Salat\n- Classic III: Kartoffelgulasch mit Debreziner\n- Mehlspeise: Johannisbeer-Streuselkuchen\n\nMIC by Eurest:\n- Tagessuppe: Klare Gemüsesuppe mit veganen Kräuterfrittaten und frischem Schnittlauch\n- Powered by plants: Süßkartoffel-Melanzaniragout mit Tofu und gedämpftem Jasminreis\n- Hearty: Pappardelle "Carbonara" mit frischem Parmesan und Petersilie\n- The Grill: Pulled Chicken Burger Thai Style mit Pommes Frites\n- Tagesdessert: Salzkaramell-Mascarponecreme mit gerösteten Nüssen oder Kürbis-Dinkelkuchen mit Eierlikörcreme
 END:VEVENT
 BEGIN:VEVENT
-UID:mittagmenue-20260929@bertysnack-speiseplan
-DTSTART;TZID=Europe/Vienna:20260929T113000
-DTEND;TZID=Europe/Vienna:20260929T120000
+UID:mittagmenue-20261013@bertysnack-speiseplan
+DTSTAMP:20261013T073356Z
+DTSTART;TZID=Europe/Vienna:20261013T113000
+DTEND;TZID=Europe/Vienna:20261013T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Dienstag\, 29.09.2026\n\nCOP-STOP:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nCaseli ÖGK:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.
+DESCRIPTION:Dienstag\, 13.10.2026\n\nCOP-STOP:\n- Tagessuppe\n- Cordon Bleu vom Schwein mit Reis\, Zitrone und Preiselbeeren\n- Nussnudeln mit Apfelmus\n- Tagessalat\n- Wiener Schnitzel vom Schwein mit Beilage – 9\,50 €\n\nCaseli ÖGK:\n- Klare Suppe mit Juliengemüse\n- Classic I: Rindergeschnetzeltes mit Gemüse in thailändischer Erdnuss-Sauce\, dazu Basmatireis\n- Classic II: Quinoa-Süßkartoffellaibchen mit cremigem Wurzelgemüse\, dazu Salat\n- Classic III: Grenadiermarsch mit Speck\, dazu Salat\n- Warmer Topfen-Grießauflauf mit Pfirsich\n\nMIC by Eurest:\n- Tagessuppe: Kürbis-Kokos-Ingwersuppe mit Kokos-Kürbiskerncrunch\n- Powered by plants: Cremige Lauchspätzle mit gerösteten Kürbiskernen und geschmortem Kürbis\n- Hearty: "Spicy Thai Lemon Chicken" – scharfer Hühnerwok mit Zitronengras\, Tamarinde und Basmatireis\n- The Grill: Pulled Chicken Burger Thai Style mit Pommes Frites\n- Tagesdessert: Salzkaramell-Mascarponecreme mit gerösteten Nüssen oder Kürbis-Dinkelkuchen mit Eierlikörcreme
 END:VEVENT
 BEGIN:VEVENT
-UID:mittagmenue-20260930@bertysnack-speiseplan
-DTSTART;TZID=Europe/Vienna:20260930T113000
-DTEND;TZID=Europe/Vienna:20260930T120000
+UID:mittagmenue-20261014@bertysnack-speiseplan
+DTSTAMP:20261013T073356Z
+DTSTART;TZID=Europe/Vienna:20261014T113000
+DTEND;TZID=Europe/Vienna:20261014T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Mittwoch\, 30.09.2026\n\nCOP-STOP:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nCaseli ÖGK:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.
+DESCRIPTION:Mittwoch\, 14.10.2026\n\nCOP-STOP:\n- Tagessuppe\n- Hühnerfilet in Kürbiskern-Panier mit Butterreis\, Zitrone und Preiselbeeren\n- Kürbis-Lasagne\n- Tagessalat\n- Wiener Schnitzel vom Schwein mit Beilage – 9\,50 €\n\nCaseli ÖGK:\n- Aktueller Wochenplan für diesen Tag konnte online nicht zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan für diesen Tag konnte online nicht zuverlässig verifiziert werden.
 END:VEVENT
 BEGIN:VEVENT
-UID:mittagmenue-20261001@bertysnack-speiseplan
-DTSTART;TZID=Europe/Vienna:20261001T113000
-DTEND;TZID=Europe/Vienna:20261001T120000
+UID:mittagmenue-20261015@bertysnack-speiseplan
+DTSTAMP:20261013T073356Z
+DTSTART;TZID=Europe/Vienna:20261015T113000
+DTEND;TZID=Europe/Vienna:20261015T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Donnerstag\, 01.10.2026\n\nCOP-STOP:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nCaseli ÖGK:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.
+DESCRIPTION:Donnerstag\, 15.10.2026\n\nCOP-STOP:\n- Tagessuppe\n- Hühner-Curry mit Basmatireis\n- Spinatknödel mit brauner Butter und Parmesan\n- Tagessalat\n- Wiener Schnitzel vom Schwein mit Beilage – 9\,50 €\n\nCaseli ÖGK:\n- Aktueller Wochenplan für diesen Tag konnte online nicht zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan für diesen Tag konnte online nicht zuverlässig verifiziert werden.
 END:VEVENT
 BEGIN:VEVENT
-UID:mittagmenue-20261002@bertysnack-speiseplan
-DTSTART;TZID=Europe/Vienna:20261002T113000
-DTEND;TZID=Europe/Vienna:20261002T120000
+UID:mittagmenue-20261016@bertysnack-speiseplan
+DTSTAMP:20261013T073356Z
+DTSTART;TZID=Europe/Vienna:20261016T113000
+DTEND;TZID=Europe/Vienna:20261016T120000
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SUMMARY:Mittagmenü
-DESCRIPTION:Freitag\, 02.10.2026\n\nCOP-STOP:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nCaseli ÖGK:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Für diesen Tag konnte kein aktueller Wochenplan zuverlässig verifiziert werden.
+DESCRIPTION:Freitag\, 16.10.2026\n\nCOP-STOP:\n- Tagessuppe\n- Wraps gefüllt mit Hühner-Kebab\, dazu Pommes Frites\n- Gebackener Camembert mit Petersilerdäpfeln und Preiselbeeren\n- Wiener Schnitzel vom Schwein mit Beilage – 9\,50 €\n\nCaseli ÖGK:\n- Aktueller Wochenplan für diesen Tag konnte online nicht zuverlässig verifiziert werden.\n\nMIC by Eurest:\n- Aktueller Wochenplan für diesen Tag konnte online nicht zuverlässig verifiziert werden.
 END:VEVENT
 END:VCALENDAR
